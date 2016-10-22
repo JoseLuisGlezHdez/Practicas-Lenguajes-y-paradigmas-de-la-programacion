@@ -1,0 +1,18 @@
+Respuestas a las preguntas de la practica 3
+
+1.- ¿Cual es el proposito de trabajar con mutliples ramas?
+EL proposito de trabajar con diferentes ramas es que se puede dejar una version estable en nuestra rama master e ir trabajando en el desarrollo en otra rama , y despues poder fusionarla con nuestra rama master.
+<<<<<<< HEAD
+ 2.- ¿Que es una reorganizacion (rebase)?
+Con rebase puedes coger todos los cambios confirmados en una rama, y reaplicarlos sobre otra.
+
+3.- ¿Cual es la ventaja de reorganizar (rebase)?
+ La ventaja es que puedes coger todos los cambios confirmados en una rama, y reaplicarlos sobre otra.
+=======
+
+2.- ¿Que es una reorganizacion (rebase)?
+Con rebase puedes coger todos los cambios confirmados en una rama, y reaplicarlos sobre otra.
+
+
+>>>>>>> C4
+
